@@ -1,5 +1,5 @@
 # CSM-2024-25-Batch-A-02
-UPI FRAUD DETECTION USING MACHINE LEARNING
+BULDING A SECURE FUTURE :UPI FRAUD DETECTION WITH MACHINE LEARNING
 
 With the rapid adoption of Unified Payments Interface (UPI) for digital transactions, the risk of fraudulent activities has also increased significantly. To address this challenge, we propose a novel approach to detect UPI fraud by analyzing transaction details such as the bank book name, transaction ID, and transaction amount. Our method employs a Random Forest classifier, a robust machine learning algorithm known for its accuracy and resilience against overfitting. The system processes the provided transaction details to classify the transaction outcome as either "Transaction Failed: Incorrect Details Entered" or "Transaction Successful: Details Verified and Processed." This classification not only helps in preventing fraudulent transactions but also ensures that legitimate transactions are processed smoothly. The proposed model aims to enhance the security of UPI transactions, providing users with an additional layer of protection against unauthorized activities. Initial evaluations suggest that the Random Forest classifier effectively distinguishes between genuine and fraudulent transactions, demonstrating its potential for integration into real-world financial systems.
 
